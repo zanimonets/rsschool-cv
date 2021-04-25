@@ -16,3 +16,6 @@
 - September, 2000 -   July, 2004 Minsk State Higher   Radioengineering College
     Faculty of Microelectronics
     Qualification: Technician-technologist  
+
+## English:
+- B1 
